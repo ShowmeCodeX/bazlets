@@ -28,7 +28,7 @@ import org.junit.runner.RunWith;
 public class %s {}
 """
 
-_PREFIXES = ("org", "com", "edu")
+_PREFIXES = ("org", "com", "edu","net","codes","cc","io")
 
 def _SafeIndex(l, val):
     for i, v in enumerate(l):
